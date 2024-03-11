@@ -1,4 +1,4 @@
-package com.samkt.quotes.model
+package com.samkt.quotes.data.dtos
 
 import com.squareup.moshi.Json
 
